@@ -87,3 +87,7 @@ To replicate this project on your local machine, follow these steps:
 ## Conclusion
 
 This project highlights the critical importance of meticulous data preprocessing and methodological rigor in developing machine learning models. Identifying and mitigating common issues like data leakage is essential for accurately assessing a model's real-world performance. The final model serves as a valuable tool with the potential to aid in predicting the risk of thyroid cancer recurrence based on clinicopathologic features.
+
+## Dataset Link
+
+https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
