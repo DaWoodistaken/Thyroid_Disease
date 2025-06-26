@@ -79,10 +79,7 @@ To replicate this project on your local machine, follow these steps:
     ```
 
 3.  **Run the script:**
-    Execute the Python script or Jupyter Notebook containing the project code.
-    ```bash
-    python your_script_name.py
-    ```
+    Execute the Jupyter Notebook`s containing the project code
 
 ## Conclusion
 
